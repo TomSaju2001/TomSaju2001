@@ -12,7 +12,7 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
 &nbsp;
 <div align="center">
 <a href="https://www.linkedin.com/in/tom-saju-5144a3196" target="_blank">
-  <img style="padding-right: 20px;" align="center" alt="Tom's linkedin" width="22px" src="png/linkedin.png" />
+  <img style="margin-right: 20px;" align="center" alt="Tom's linkedin" width="22px" src="png/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/t.o.m_s.a.j.u" target="_blank">
   <img align="center" alt="Tom's Instagram" width="22px" src="png/instagram.png" />
