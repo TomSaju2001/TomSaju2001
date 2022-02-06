@@ -13,19 +13,19 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
 &nbsp;
 <div align="center">
 <a href="https://www.instagram.com/t.o.m_s.a.j.u" target="_blank">
-  <img align="center" alt="Tom's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Tom's Instagram" width="22px" src="png/instagram.png" />
 </a>
 <a href="https://twitter.com/TomSaju2001" target="_blank">
-  <img align="left" alt="Tom's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Tom's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://t.me/tom_saju" target="_blank">
-  <img align="left" alt="Tom's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Tom's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="mailto:tomsaju33@gmail.com" target="_blank">
-  <img align="left" alt="Tom's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="Tom's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://github.com/TomSaju2001" target="_blank">
-  <img align="left" alt="Tom's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Tom's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 </div>
