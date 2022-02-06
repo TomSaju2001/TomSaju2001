@@ -1,6 +1,6 @@
 ## Hello World! <img src="gif/hi.gif" width="25px">
 
-I'm Tom Saju. I'm a passionate learner who's always willing to learn and work across technologies and domains💡.  
+#### I'm Tom Saju. I'm a passionate learner who's always willing to learn and work across technologies and domains💡.  
 
 - 🔭 I'm a Computer Science undergraduate at National Institue of Technology Calicut, Kerala.
 - 📚 I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
