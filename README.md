@@ -15,7 +15,7 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
   <img align="center" alt="Tom's linkedin" width="30px" src="png/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/t.o.m_s.a.j.u" target="_blank">
-  <img align="center" alt="Tom's Instagram" width="35px" src="png/instagram.png" />
+  <img align="center" alt="Tom's Instagram" width="38px" src="png/instagram.png" />
 </a>
 <a href="https://twitter.com/TomSaju2001" target="_blank">
   <img align="center" alt="Tom's Twitter" width="30px" src="png/twitter.png" />
@@ -24,7 +24,7 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
   <img align="center" alt="Tom's Telegram" width="30px" src="png/telegram.png" />
 </a>
 <a href="mailto:tomsaju33@gmail.com" target="_blank">
-  <img align="center" alt="Tom's Email" width="32px" src="png/gmail.png" />
+  <img align="center" alt="Tom's Email" width="35px" src="png/gmail.png" />
 </a>
 <a href="https://github.com/TomSaju2001" target="_blank">
   <img align="center" alt="Tom's Github" width="30px" src="png/github.png" />
