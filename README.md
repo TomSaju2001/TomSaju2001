@@ -11,6 +11,7 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
 
 ### Glad to see you here! <img src="gif/starstruck.gif" width="25px">
 &nbsp;
+<div style="text-align:center;>
 <center>
 <a href="https://www.instagram.com/t.o.m_s.a.j.u" target="_blank">
   <img  alt="Tom's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -28,5 +29,6 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
 </a>
 <br/>
 </center>
+</div>
 &nbsp;
 
