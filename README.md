@@ -9,11 +9,10 @@ I'm Tom Saju. I'm a passionate learner who's always willing to learn and work ac
 
 Looking forward to Share and Gain knowledgeable stuff. ☘️
 
-### Glad to see you here! <img src="gif/starstruck.gif" width="25px">
 &nbsp;
 <div align="center">
 <a href="https://www.linkedin.com/in/tom-saju-5144a3196" target="_blank">
-  <img align="center" alt="Tom's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Tom's linkedin" width="22px" src="png/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/t.o.m_s.a.j.u" target="_blank">
   <img align="center" alt="Tom's Instagram" width="22px" src="png/instagram.png" />
@@ -28,7 +27,7 @@ Looking forward to Share and Gain knowledgeable stuff. ☘️
   <img align="center" alt="Tom's Email" width="22px" src="png/gmail.png" />
 </a>
 <a href="https://github.com/TomSaju2001" target="_blank">
-  <img align="center" alt="Tom's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Tom's Github" width="22px" src="png/github.png" />
 </a>
 <br/>
 </div>
